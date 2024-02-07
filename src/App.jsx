@@ -1,9 +1,9 @@
-import React from 'react'
+import Home from "./pages/home/Home"
 
-export default function App() {
+function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <Home />
   )
 }
+
+export default App
