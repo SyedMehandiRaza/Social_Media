@@ -1,5 +1,5 @@
 import './sidebar.css'
-import {Users} from "../../dummyData"
+import {Users} from "../../../dummyData"
 import {
   Bookmark, 
   Feed, 

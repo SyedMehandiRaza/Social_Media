@@ -1,5 +1,5 @@
 import './post.css'
-import { Users } from '../../dummyData'
+import { Users } from '../../../dummyData'
 import {
   MoreVert
 } from "@mui/icons-material"

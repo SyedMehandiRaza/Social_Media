@@ -1,5 +1,5 @@
 import './rightbar.css'
-import {Users} from "../../dummyData"
+import {Users} from "../../../dummyData.js"
 import Online from "../online/Online.jsx"
 
 function Rightbar() {
